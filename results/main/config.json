@@ -1,0 +1,9 @@
+{
+  "model": "gpt-5-mini",
+  "effort": "low",
+  "samples": 3,
+  "products": 60,
+  "calibration_products": 60,
+  "personas": 18,
+  "started": "2026-10-19T14:43:40"
+}

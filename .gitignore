@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.env
+
+# Amazon Reviews 2023 is licensed for research use and may not be redistributed;
+# download it with scripts/download_filtered.py. Derived samples stay local too.
+data/

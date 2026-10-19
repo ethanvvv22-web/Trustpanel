@@ -1,0 +1,2169 @@
+[
+ {
+  "persona_id": "baby_care-0",
+  "topic": "baby_care",
+  "weight": 0.5451034139048093,
+  "name": "Scent- and Safety-Focused Baby Care Shopper",
+  "summary": "This shopper prioritizes gentle, safe products for baby while also caring about scent—either preferring a pleasant baby scent or true fragrance-free. They also manage cloth diapers and frequent laundry, so cleaning effectiveness and fabric compatibility matter.",
+  "situation": "Buys baby washes, diaper balms, detergents and sometimes fragranced home products to keep baby and home smelling clean; they juggle cloth diapers or heavy diaper leakage and want products that are effective without harsh chemicals or lingering artificial scents.",
+  "needs": [
+   {
+    "need": "Gentle, plant-based or fragrance-free baby washes that don’t leave harsh chemical smells on baby skin or hair.",
+    "evidence": [
+     "R242426",
+     "R242385",
+     "R259032"
+    ]
+   },
+   {
+    "need": "Products with a pleasant baby-friendly scent (vanilla/ lavender/baby powder) or truly no fragrance depending on preference—scent performance must match claims.",
+    "evidence": [
+     "R224251",
+     "R52115",
+     "R242426",
+     "R70855"
+    ]
+   },
+   {
+    "need": "Laundry detergents or soap that clean cloth diapers and baby laundry thoroughly without complex wash routines or damaging diapers.",
+    "evidence": [
+     "R301400",
+     "R70806",
+     "R70855"
+    ]
+   },
+   {
+    "need": "Diaper creams or balms that are safe for cloth diapers and effective as a barrier/healing ointment.",
+    "evidence": [
+     "R339740"
+    ]
+   },
+   {
+    "need": "Odor-eliminating solutions for strong smells (diaper/pet/smoke) in the home.",
+    "evidence": [
+     "R52115",
+     "R51339",
+     "R50894"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Fragrance-free products that actually leave an unpleasant or 'not clean' scent on baby hair after washing.",
+    "evidence": [
+     "R242385",
+     "R242426"
+    ]
+   },
+   {
+    "need": "Products labeled fragrance-free but with a detectable pre-wash scent or ambiguous scent claims.",
+    "evidence": [
+     "R70855",
+     "R242426"
+    ]
+   },
+   {
+    "need": "Diaper leakage and blowouts causing excessive laundry and stress for busy parents.",
+    "evidence": [
+     "R291108"
+    ]
+   },
+   {
+    "need": "Some scented products (candles) burn poorly or produce dirty/undesirable residue despite good scent descriptions; pricing can be high.",
+    "evidence": [
+     "R50894",
+     "R52115"
+    ]
+   },
+   {
+    "need": "Packaging that isn’t resealable (for items like detergent sheets), creating storage/usage inconvenience.",
+    "evidence": [
+     "R70806"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Leaves baby smelling 'not clean' despite being fragrance-free",
+   "Claims of fragrance-free that still have scent pre-wash",
+   "Detergents that require complex wash routines to clean cloth diapers",
+   "Diaper creams that are not cloth-diaper safe"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "generous",
+  "segment": {
+   "topic": "baby_care",
+   "segment_id": "baby_care-0",
+   "n_reviews": 8750,
+   "share": 0.5451034139048093,
+   "top_terms": [
+    "smell",
+    "scent",
+    "diapers",
+    "candle",
+    "smells",
+    "baby",
+    "diaper",
+    "wash",
+    "does",
+    "time",
+    "clean",
+    "skin"
+   ],
+   "rating_counts": {
+    "1": 831,
+    "2": 456,
+    "3": 571,
+    "4": 926,
+    "5": 5966
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "baby_care-2",
+  "topic": "baby_care",
+  "weight": 0.3593321704460503,
+  "name": "The water-first baby-wipe shopper",
+  "summary": "This shopper prioritizes wipes made with mostly water and no harsh chemicals because they want a gentle, clean wipe for their baby. They will pay a premium if the wipes are truly gentle, wet, and effective — but will react strongly (including leaving very negative reviews) if the product changes or performs worse.",
+  "situation": "Buys baby wipes to clean diaper area and protect sensitive or easily-irritated skin. Compares water-based wipes against mainstream scented/chemical wipes and will switch brands if wipes cause rashes or feel soapy/rough.",
+  "needs": [
+   {
+    "need": "Wipes made from mostly water / minimal chemicals",
+    "evidence": [
+     "R100980",
+     "R101284",
+     "R102202",
+     "R101045"
+    ]
+   },
+   {
+    "need": "Wipes that are genuinely wet and feel like water (not soapy or rough)",
+    "evidence": [
+     "R103441",
+     "R103967",
+     "R102656",
+     "R101284"
+    ]
+   },
+   {
+    "need": "Wipes that clean effectively so fewer wipes are needed",
+    "evidence": [
+     "R103441",
+     "R103967",
+     "R104668"
+    ]
+   },
+   {
+    "need": "A product that does not cause diaper rash or irritation",
+    "evidence": [
+     "R102604",
+     "R104379",
+     "R101045"
+    ]
+   },
+   {
+    "need": "Consistent product quality and truthful packaging/labeling",
+    "evidence": [
+     "R103967",
+     "R103373"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "High price compared with mainstream wipes",
+    "evidence": [
+     "R100980",
+     "R102202"
+    ]
+   },
+   {
+    "need": "Some users find the wipes require more than one to clean (less efficient) or are too thick/wet to handle easily",
+    "evidence": [
+     "R104668",
+     "R103967"
+    ]
+   },
+   {
+    "need": "Product/packaging changes that make customers question authenticity or lead to worse performance",
+    "evidence": [
+     "R103967",
+     "R103373"
+    ]
+   },
+   {
+    "need": "Not convenient for on-the-go use (hard to unfold/too wet)",
+    "evidence": [
+     "R104668"
+    ]
+   },
+   {
+    "need": "Severe negative reaction when wipes do not match expectations (e.g., switching caused parents to seek alternatives)",
+    "evidence": [
+     "R103373"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Wipes that contain noticeable chemicals, scents, or a soapy feel",
+   "Wipes that cause diaper rash or irritation",
+   "Packaging or formula changes that reduce perceived water content or performance",
+   "Wipes that are ineffective or require many per change"
+  ],
+  "price_sensitivity": "high",
+  "rating_tendency": "polarized — generous 5★ when wipes are truly water-based, wet, gentle and effective; quick to leave very low ratings when product changes, causes irritation, or performs worse than expected",
+  "segment": {
+   "topic": "baby_care",
+   "segment_id": "baby_care-2",
+   "n_reviews": 5768,
+   "share": 0.3593321704460503,
+   "top_terms": [
+    "wipes",
+    "wipe",
+    "baby",
+    "water",
+    "don",
+    "water wipes",
+    "diaper",
+    "chemicals",
+    "wet",
+    "rash",
+    "wipes wipes",
+    "clean"
+   ],
+   "rating_counts": {
+    "1": 965,
+    "2": 432,
+    "3": 542,
+    "4": 740,
+    "5": 3089
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "baby_care-1",
+  "topic": "baby_care",
+  "weight": 0.0955644156491403,
+  "name": "The sensitive-skin baby caregiver",
+  "summary": "Caregivers who choose wipes primarily because their baby has sensitive skin and need a product that reliably cleans without causing rashes or irritation. They repeatedly buy this brand because it’s gentle and effective, but notice issues with packaging, wetness, price, and rare allergic reactions.",
+  "situation": "Uses these wipes regularly for babies/toddlers with sensitive skin (diaper changes and everyday cleaning). They evaluate wipes by gentleness, effectiveness at cleaning, and whether the product causes a rash or other reaction.",
+  "needs": [
+   {
+    "need": "Wipes that are gentle and formulated for sensitive skin",
+    "evidence": [
+     "R21775",
+     "R100245",
+     "R100767",
+     "R103268",
+     "R221419",
+     "R21375",
+     "R21821",
+     "R104070",
+     "R104374",
+     "R21825",
+     "R104162"
+    ]
+   },
+   {
+    "need": "Wipes that clean effectively without leaving irritation or rashes",
+    "evidence": [
+     "R21775",
+     "R100767",
+     "R103268",
+     "R21821",
+     "R104070",
+     "R21825"
+    ]
+   },
+   {
+    "need": "Adequate moisture so wipes clean well (but not so wet that drying is slow or inconvenient)",
+    "evidence": [
+     "R104374"
+    ]
+   },
+   {
+    "need": "Packaging that dispenses wipes easily and reliably",
+    "evidence": [
+     "R104162"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Occasional severe allergic reactions (to caregiver or user) — product may still irritate some people",
+    "evidence": [
+     "R107339"
+    ]
+   },
+   {
+    "need": "Wipes can be too wet and take too long to dry, which can be inconvenient",
+    "evidence": [
+     "R104374"
+    ]
+   },
+   {
+    "need": "Packaging/dispenser quality is disappointing given the price",
+    "evidence": [
+     "R104162"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Products that cause rashes or hives",
+   "Packaging that makes dispensing difficult despite premium price"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "very generous (overwhelmingly 5★ reviews with few low ratings)",
+  "segment": {
+   "topic": "baby_care",
+   "segment_id": "baby_care-1",
+   "n_reviews": 1534,
+   "share": 0.0955644156491403,
+   "top_terms": [
+    "sensitive",
+    "sensitive skin",
+    "skin",
+    "wipes",
+    "baby",
+    "baby sensitive",
+    "rash",
+    "skin wipes",
+    "son",
+    "daughter",
+    "babies",
+    "wash"
+   ],
+   "rating_counts": {
+    "1": 47,
+    "2": 24,
+    "3": 39,
+    "4": 105,
+    "5": 1319
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "bath_tissue-0",
+  "topic": "bath_tissue",
+  "weight": 0.5993926460932371,
+  "name": "Value-conscious, quality-sensitive TP buyer",
+  "summary": "Buys bath tissue in bulk for home use and delivery convenience, balancing price and perceived softness/strength. Responsive to packaging, smell, and honest product descriptions — will reward good value but punish perceived deception or poor quality.",
+  "situation": "Orders multi-roll packs (often large counts) for household supply and to avoid store trips; compares brands for softness, strength, and value and will give packages to family members when buying in bulk.",
+  "needs": [
+   {
+    "need": "Reliable delivery and bulk availability so they don't run out or need last-minute store trips.",
+    "evidence": [
+     "R141920",
+     "R159549"
+    ]
+   },
+   {
+    "need": "Good value — lower price per roll or pack compared with local stores.",
+    "evidence": [
+     "R141920",
+     "R159549",
+     "R352278"
+    ]
+   },
+   {
+    "need": "Toilet paper that balances softness and strength (not too rough, not shredding, not overpriced).",
+    "evidence": [
+     "R160383",
+     "R241335",
+     "R17911"
+    ]
+   },
+   {
+    "need": "Accurate product information about ply, roll count, and quality so they know what they're buying.",
+    "evidence": [
+     "R248989",
+     "R77915"
+    ]
+   },
+   {
+    "need": "Consistent product quality across deliveries (same feel, smell, and packaging condition).",
+    "evidence": [
+     "R158757",
+     "R248989"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Items arriving dusty, with bad odors, or damaged/poorly sealed packaging.",
+    "evidence": [
+     "R158757"
+    ]
+   },
+   {
+    "need": "Perceived or actual reduction in ply or roll size and feeling of deceptive advertising.",
+    "evidence": [
+     "R248989"
+    ]
+   },
+   {
+    "need": "TP that is too rough, crinkles like a paper towel, or shreds unless used in large amounts.",
+    "evidence": [
+     "R241335",
+     "R77915",
+     "R256045"
+    ]
+   },
+   {
+    "need": "Wide variability in reviews and quality makes it hard to know what to expect when ordering.",
+    "evidence": [
+     "R159549",
+     "R17911"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Product advertised as 3-ply but actually reduced to 2-ply (deceptive change).",
+   "Packaging or rolls arrive dusty, smelling bad, or unsealed.",
+   "Toilet paper that shreds easily or is unacceptably rough."
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "polarized — will give very high ratings when bulk delivery, value, and expected softness/strength are met, and very low ratings when they encounter misadvertising, poor packaging, smell, or poor performance.",
+  "segment": {
+   "topic": "bath_tissue",
+   "segment_id": "bath_tissue-0",
+   "n_reviews": 65727,
+   "share": 0.5993926460932371,
+   "top_terms": [
+    "rolls",
+    "soft",
+    "tp",
+    "price",
+    "tissue",
+    "roll",
+    "quality",
+    "brand",
+    "paper",
+    "value",
+    "don",
+    "time"
+   ],
+   "rating_counts": {
+    "1": 12418,
+    "2": 5447,
+    "3": 6472,
+    "4": 7183,
+    "5": 34207
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "bath_tissue-1",
+  "topic": "bath_tissue",
+  "weight": 0.2560644196396002,
+  "name": "The texture-first toilet paper shopper",
+  "summary": "This shopper chooses toilet paper mainly on feel and how well it cleans. They repeatedly buy brands that feel soft and substantial, and they give low ratings when the sheet is either too thin or unexpectedly too thick.",
+  "situation": "Buys and evaluates toilet paper based on softness, thickness, and cleaning performance; will re-buy products that meet these expectations and avoid those that don’t.",
+  "needs": [
+   {
+    "need": "Soft, comfortable paper that feels pleasant to use",
+    "evidence": [
+     "R75658",
+     "R5297",
+     "R276264",
+     "R187430"
+    ]
+   },
+   {
+    "need": "Sufficient heft/thickness and strength so it doesn't feel see-through or fragile",
+    "evidence": [
+     "R15764",
+     "R5297",
+     "R276264"
+    ]
+   },
+   {
+    "need": "Paper that cleans well without needing excessive amounts",
+    "evidence": [
+     "R159283",
+     "R276264",
+     "R5297"
+    ]
+   },
+   {
+    "need": "Consistency in product quality so they can trust repeat purchases",
+    "evidence": [
+     "R75658",
+     "R276264",
+     "R15764"
+    ]
+   },
+   {
+    "need": "Not overly thick or bulky—some shoppers reject paper that feels too heavy",
+    "evidence": [
+     "R105939",
+     "R105940",
+     "R159283"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Paper that is ultrathin and feels like low-quality or 'Soviet era' toilet paper",
+    "evidence": [
+     "R263586",
+     "R172800",
+     "R228175"
+    ]
+   },
+   {
+    "need": "Paper that is unexpectedly too thick or bulky for preferred use",
+    "evidence": [
+     "R105939",
+     "R105940",
+     "R159283"
+    ]
+   },
+   {
+    "need": "Inconsistent product performance leading to disappointment (either too thin or too thick vs. expectations)",
+    "evidence": [
+     "R15764",
+     "R263586",
+     "R159283"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Excessively thin, see-through paper",
+   "Uncomfortably or unnecessarily thick/bulky paper",
+   "Poor cleaning performance"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "Polarized: very likely to give 5★ when the paper is soft, substantial, and cleans well; likely to give low ratings when it is either too thin or too thick.",
+  "segment": {
+   "topic": "bath_tissue",
+   "segment_id": "bath_tissue-1",
+   "n_reviews": 28079,
+   "share": 0.2560644196396002,
+   "top_terms": [
+    "toilet paper",
+    "toilet",
+    "paper",
+    "soft",
+    "rolls",
+    "roll",
+    "price",
+    "brand",
+    "quality",
+    "charmin",
+    "don",
+    "tp"
+   ],
+   "rating_counts": {
+    "1": 5417,
+    "2": 2034,
+    "3": 2278,
+    "4": 3061,
+    "5": 15289
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "bath_tissue-2",
+  "topic": "bath_tissue",
+  "weight": 0.14454293426716278,
+  "name": "The Tissue-Quantity-and-Comfort Seeker",
+  "summary": "This shopper buys facial tissues for frequent, practical use (allergies, colds, everyday nose-blowing) and expects softness and durability. They also care about getting enough tissues per box and good value for the price.",
+  "situation": "Keeps boxes of tissues around the home, car, and desk for regular use during allergies or illness; often buys multi-packs and looks for reliable, soft, absorbent tissues that won't irritate the nose or fall apart when used.",
+  "needs": [
+   {
+    "need": "Soft, thick, absorbent tissues that are gentle on the nose and won’t fall apart.",
+    "evidence": [
+     "R160598",
+     "R90219",
+     "R246246",
+     "R76806",
+     "R71825"
+    ]
+   },
+   {
+    "need": "A larger number of tissues per box or bigger boxes so they don’t have to replace boxes frequently.",
+    "evidence": [
+     "R250083",
+     "R246246",
+     "R293872",
+     "R312534",
+     "R230620"
+    ]
+   },
+   {
+    "need": "Good value — enough quantity for the price (willing to buy in multi-packs or cases).",
+    "evidence": [
+     "R90219",
+     "R250083",
+     "R280894"
+    ]
+   },
+   {
+    "need": "Boxes that look presentable or appropriately themed for occasions (packaging matters occasionally).",
+    "evidence": [
+     "R160598",
+     "R332964",
+     "R71825"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Boxes with very few tissues (small counts like ~60) forcing frequent replacement.",
+    "evidence": [
+     "R312534",
+     "R230620",
+     "R332964",
+     "R250148"
+    ]
+   },
+   {
+    "need": "Inconsistent or poor softness — some batches or colors feel rough or less soft than expected.",
+    "evidence": [
+     "R250148",
+     "R332964"
+    ]
+   },
+   {
+    "need": "Color or product inconsistency (unexpected colored tissues in some boxes).",
+    "evidence": [
+     "R250148"
+    ]
+   },
+   {
+    "need": "Boxes that are unattractive or 'not presentable' for placing in visible areas.",
+    "evidence": [
+     "R160598",
+     "R71825",
+     "R332964"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Tissues that are very rough or irritating to the nose",
+   "Boxes that contain very few tissues causing excessive replacements",
+   "Clear inconsistency in tissue color or quality across boxes"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "generally positive for products that meet expectations (soft, durable, good value) but gives harsh low ratings when tissue softness, count per box, or consistency is poor",
+  "segment": {
+   "topic": "bath_tissue",
+   "segment_id": "bath_tissue-2",
+   "n_reviews": 15850,
+   "share": 0.14454293426716278,
+   "top_terms": [
+    "tissues",
+    "kleenex",
+    "boxes",
+    "box",
+    "tissue",
+    "nose",
+    "soft",
+    "puffs",
+    "lotion",
+    "facial",
+    "don",
+    "price"
+   ],
+   "rating_counts": {
+    "1": 2419,
+    "2": 1258,
+    "3": 1518,
+    "4": 1892,
+    "5": 8763
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "feminine_care-0",
+  "topic": "feminine_care",
+  "weight": 0.5271461428482626,
+  "name": "Comfort-first liner user",
+  "summary": "This person chooses feminine-care products primarily for daily comfort, secure adhesion, and sufficient coverage. They are sensitive to material feel and consistency — they reward products that are soft, stay put, and protect, and penalize ones that are short, plastic-feeling, or inconsistent in quality.",
+  "situation": "Uses liners, pads, or tampons for daily freshness, light leaks, or overnight protection; sometimes tries reusable pads or switches brands when favorites are discontinued or quality changes.",
+  "needs": [
+   {
+    "need": "Soft, non-plastic-feeling materials that don’t irritate skin",
+    "evidence": [
+     "R186657",
+     "R348888",
+     "R78686"
+    ]
+   },
+   {
+    "need": "Reliable adhesive that keeps liners/pads in place all day",
+    "evidence": [
+     "R330387",
+     "R201265",
+     "R323182"
+    ]
+   },
+   {
+    "need": "Adequate length/coverage (especially for overnight protection)",
+    "evidence": [
+     "R219389",
+     "R201265",
+     "R186657"
+    ]
+   },
+   {
+    "need": "Good absorbency appropriate to labelled flow level",
+    "evidence": [
+     "R290987",
+     "R294073",
+     "R257569"
+    ]
+   },
+   {
+    "need": "Consistent product quality and correct packaging",
+    "evidence": [
+     "R255097",
+     "R257569",
+     "R348888"
+    ]
+   },
+   {
+    "need": "Options that feel environmentally friendly or reusable without sacrificing function",
+    "evidence": [
+     "R323182",
+     "R247382",
+     "R186657"
+    ]
+   },
+   {
+    "need": "Unscented/clean-ingredients options",
+    "evidence": [
+     "R348888",
+     "R257569"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Products that are too short and don’t provide enough coverage",
+    "evidence": [
+     "R201265",
+     "R186657",
+     "R323182"
+    ]
+   },
+   {
+    "need": "Weak or ineffective adhesive so liners shift or require doubling up",
+    "evidence": [
+     "R330387",
+     "R201265",
+     "R78686"
+    ]
+   },
+   {
+    "need": "Plastic or synthetic ‘feel’ that causes discomfort or irritation",
+    "evidence": [
+     "R348888",
+     "R186657",
+     "R201265"
+    ]
+   },
+   {
+    "need": "Inconsistent absorbency or mislabeled absorbency leading to disappointment",
+    "evidence": [
+     "R257569",
+     "R294073",
+     "R290987"
+    ]
+   },
+   {
+    "need": "Quality decline or damaged/unsealed packaging on delivery",
+    "evidence": [
+     "R348888",
+     "R257569"
+    ]
+   },
+   {
+    "need": "Staining that is hard to remove from reusable pads/linens",
+    "evidence": [
+     "R323182",
+     "R201265"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Causes skin irritation",
+   "Not long enough for intended use (e.g., overnight)",
+   "Adhesive fails and product moves",
+   "Product arrives unsealed or incorrectly labeled"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "Polarized: gives very high ratings when comfort, fit, and consistency are met, but leaves very low ratings for irritation, poor fit/length, or quality/packaging failures.",
+  "segment": {
+   "topic": "feminine_care",
+   "segment_id": "feminine_care-0",
+   "n_reviews": 42401,
+   "share": 0.5271461428482626,
+   "top_terms": [
+    "comfortable",
+    "tampons",
+    "pads",
+    "don",
+    "brand",
+    "organic",
+    "applicator",
+    "size",
+    "easy",
+    "ve",
+    "liners",
+    "better"
+   ],
+   "rating_counts": {
+    "1": 6975,
+    "2": 3264,
+    "3": 4084,
+    "4": 5243,
+    "5": 22835
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "feminine_care-2",
+  "topic": "feminine_care",
+  "weight": 0.25418039410704296,
+  "name": "The determined menstrual-cup learner",
+  "summary": "A user motivated to switch from pads/tampons to a reusable menstrual cup for comfort, convenience, or environmental reasons. They are willing to persist through a learning curve but are sensitive to fit, material feel, and pain on insertion/removal.",
+  "situation": "Uses menstrual cups instead of tampons or pads across multiple cycles; often reads instructions or watches videos and tries different sizes/models until they find one that works. They track flow and comfort over several periods before judging the product.",
+  "needs": [
+   {
+    "need": "Clear, reliable guidance on folding, insertion, breaking the seal, and removal technique",
+    "evidence": [
+     "R136779",
+     "R81618",
+     "R81196"
+    ]
+   },
+   {
+    "need": "Multiple size/firmness options so they can find the right fit for cervix height and life stage (e.g., after childbirth)",
+    "evidence": [
+     "R55890",
+     "R54765",
+     "R84931",
+     "R181412"
+    ]
+   },
+   {
+    "need": "A soft, flexible material that doesn't poke or irritate the cervix",
+    "evidence": [
+     "R136779",
+     "R55890",
+     "R181412",
+     "R81792"
+    ]
+   },
+   {
+    "need": "Product that allows longer wear-time and helps reduce period duration or management compared with pads/tampons",
+    "evidence": [
+     "R55890",
+     "R86518"
+    ]
+   },
+   {
+    "need": "Sanitizable, reusable product and accessory (e.g., holder) to reduce waste and ongoing cost",
+    "evidence": [
+     "R116478"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Steep learning curve — early cycles can be frustrating and removal can be difficult or painful if instructions (like breaking the seal) aren’t followed",
+    "evidence": [
+     "R136779",
+     "R81618",
+     "R81196",
+     "R81792"
+    ]
+   },
+   {
+    "need": "Discomfort during use — some feel cramps or constant awareness similar to super-plus tampons, especially if size or firmness is wrong",
+    "evidence": [
+     "R81792",
+     "R181412",
+     "R55890"
+    ]
+   },
+   {
+    "need": "Wrong size or too-hard material can poke the cervix or be generally uncomfortable, forcing returns or abandonment",
+    "evidence": [
+     "R181412",
+     "R55890"
+    ]
+   },
+   {
+    "need": "Not every cup works for everyone; some users need to try multiple models/sizes before finding one that shortens period length or fits well",
+    "evidence": [
+     "R55890",
+     "R84931",
+     "R81196"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Product causes pain on insertion or removal",
+   "Product material pokes or irritates the cervix",
+   "No suitable size/firmness options available"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "generous but cautious — often gives high ratings after adapting and finding the right cup, but will post low ratings when fit or comfort causes pain or persistent problems.",
+  "segment": {
+   "topic": "feminine_care",
+   "segment_id": "feminine_care-2",
+   "n_reviews": 20445,
+   "share": 0.25418039410704296,
+   "top_terms": [
+    "tampons",
+    "heavy",
+    "period",
+    "cup",
+    "pads",
+    "day",
+    "days",
+    "time",
+    "flow",
+    "don",
+    "hours",
+    "feel"
+   ],
+   "rating_counts": {
+    "1": 791,
+    "2": 606,
+    "3": 973,
+    "4": 2469,
+    "5": 15606
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "feminine_care-1",
+  "topic": "feminine_care",
+  "weight": 0.21867346304469448,
+  "name": "The experienced menstrual-cup trialer",
+  "summary": "A user who has tried multiple menstrual cup brands and sizes until they find one that fits; they value comfort, leak-free performance, and ease of use. They will praise a cup enthusiastically when it works and rate harshly when it leaks or is the wrong shape/size for their anatomy.",
+  "situation": "Uses menstrual cups to replace tampons and pads for heavy flow, swimming, long wear times, and convenience. They test different brands/sizes (Diva, Lena, Sckoon, Lunette, etc.) and expect to try several before finding the right fit.",
+  "needs": [
+   {
+    "need": "A cup that fits their anatomy (correct size and length)",
+    "evidence": [
+     "R56655",
+     "R82764",
+     "R293662",
+     "R54933",
+     "R337658"
+    ]
+   },
+   {
+    "need": "Comfortable insertion/removal and all-day comfort",
+    "evidence": [
+     "R301185",
+     "R82764",
+     "R79933"
+    ]
+   },
+   {
+    "need": "Reliable, leak-free protection even with heavy flow",
+    "evidence": [
+     "R56655",
+     "R345054",
+     "R312615",
+     "R54933"
+    ]
+   },
+   {
+    "need": "Easy cleaning and maintenance (including accessible suction holes)",
+    "evidence": [
+     "R345054",
+     "R312615"
+    ]
+   },
+   {
+    "need": "Affordable alternatives to premium brands",
+    "evidence": [
+     "R253392"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Leaks or overflow on heavy days",
+    "evidence": [
+     "R312615",
+     "R345054",
+     "R54933"
+    ]
+   },
+   {
+    "need": "Cup too long for users with a low cervix",
+    "evidence": [
+     "R293662",
+     "R54933"
+    ]
+   },
+   {
+    "need": "Difficulty gripping the cup for removal",
+    "evidence": [
+     "R312615"
+    ]
+   },
+   {
+    "need": "Small or hard-to-clean suction holes",
+    "evidence": [
+     "R345054"
+    ]
+   },
+   {
+    "need": "Need for trial-and-error across brands and sizes",
+    "evidence": [
+     "R337658",
+     "R56655",
+     "R56179"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Design/length that doesn’t suit a low cervix",
+   "Persistent leaking despite correct use",
+   "Poor grip or removal design",
+   "Suction holes that are too small or impossible to clean"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "Polarized — gives very positive reviews when the cup fits and works well, and low ratings when it leaks, is uncomfortable, or is the wrong size/shape.",
+  "segment": {
+   "topic": "feminine_care",
+   "segment_id": "feminine_care-1",
+   "n_reviews": 17589,
+   "share": 0.21867346304469448,
+   "top_terms": [
+    "cup",
+    "diva",
+    "diva cup",
+    "menstrual",
+    "cups",
+    "menstrual cup",
+    "ve",
+    "easy",
+    "comfortable",
+    "tried",
+    "time",
+    "try"
+   ],
+   "rating_counts": {
+    "1": 1701,
+    "2": 1341,
+    "3": 1580,
+    "4": 2092,
+    "5": 10875
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "kitchen_paper-0",
+  "topic": "kitchen_paper",
+  "weight": 0.5089635277148156,
+  "name": "Value-conscious kitchen-paper shopper",
+  "summary": "Shops for paper towels that balance absorbency and price. Wants predictable sizing/packaging and convenient delivery or storage options.",
+  "situation": "Buys kitchen paper for everyday household cleaning (human and pet messes), often ordering online to avoid carrying bulky packs home or to stock up when prices are good.",
+  "needs": [
+   {
+    "need": "High absorbency and overall good quality (so fewer towels used per mess).",
+    "evidence": [
+     "R205138",
+     "R318984",
+     "R304127",
+     "R22044"
+    ]
+   },
+   {
+    "need": "Clear value: good price per roll or per usable sheet so bulk buys feel economical.",
+    "evidence": [
+     "R119542",
+     "R199571",
+     "R39669",
+     "R22044"
+    ]
+   },
+   {
+    "need": "Packaging and pack-size options that match household storage (smaller multi-packs or 6‑packs that can be kept in pantry/garage).",
+    "evidence": [
+     "R205138",
+     "R119542",
+     "R280632"
+    ]
+   },
+   {
+    "need": "Predictable sheet size and tear pattern (customers prefer full-size sheets or want to be informed about half/third sheets).",
+    "evidence": [
+     "R218460",
+     "R64259"
+    ]
+   },
+   {
+    "need": "Reliable home delivery so they don't have to haul bulky items from the store.",
+    "evidence": [
+     "R199571",
+     "R280632"
+    ]
+   },
+   {
+    "need": "Confidence that the product is genuine and not returned/second‑hand or defective.",
+    "evidence": [
+     "R60577"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Online prices fluctuate widely and can be higher than in-store, making it hard to know if you're getting a deal.",
+    "evidence": [
+     "R199571",
+     "R22044",
+     "R280632"
+    ]
+   },
+   {
+    "need": "Manufacturers changing sheet size (full → half → third) without clear choice frustrates loyal buyers.",
+    "evidence": [
+     "R218460"
+    ]
+   },
+   {
+    "need": "Bulk packaging can be hard to store; buyers want sensible multi-pack formats rather than one giant case.",
+    "evidence": [
+     "R205138",
+     "R119542"
+    ]
+   },
+   {
+    "need": "Occasional inconsistent tearing or weaker sheets compared to preferred brand (customers notice when product is 'not Bounty').",
+    "evidence": [
+     "R64259",
+     "R39669"
+    ]
+   },
+   {
+    "need": "Fear of receiving imperfect, used, or discounted-from-defect products when ordering online.",
+    "evidence": [
+     "R60577"
+    ]
+   },
+   {
+    "need": "Confusion about how to compare value across different roll sizes, sheet counts, and ply.",
+    "evidence": [
+     "R22044"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Product that is clearly used, returned, or second‑hand",
+   "Paper towels that are not absorbent or fall apart on use",
+   "Significant price increases that make online purchase more expensive than local shopping",
+   "Unannounced reductions in sheet size without offering a full‑size option"
+  ],
+  "price_sensitivity": "high",
+  "rating_tendency": "generally generous when product meets expectations, but quick to give low ratings when quality, authenticity, or value are perceived as poor",
+  "segment": {
+   "topic": "kitchen_paper",
+   "segment_id": "kitchen_paper-0",
+   "n_reviews": 22230,
+   "share": 0.5089635277148156,
+   "top_terms": [
+    "quality",
+    "price",
+    "napkins",
+    "rolls",
+    "bounty",
+    "towels",
+    "size",
+    "absorbent",
+    "don",
+    "value",
+    "brand",
+    "soft"
+   ],
+   "rating_counts": {
+    "1": 3798,
+    "2": 1914,
+    "3": 2304,
+    "4": 2385,
+    "5": 11829
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "kitchen_paper-1",
+  "topic": "kitchen_paper",
+  "weight": 0.3370652746296678,
+  "name": "Performance-focused paper-towel buyer",
+  "summary": "This customer segment chooses paper towels based on absorbency, thickness, and value. They compare budget rolls to name brands and will either praise a product as equally good or sharply criticize it as cheap and unusable.",
+  "situation": "They buy kitchen paper to handle everyday spills and cleaning; they expect one towel to absorb well, be sturdy when wet, and provide good value per roll. They use reviews and brand comparisons to decide whether a cheaper roll meets their needs.",
+  "needs": [
+   {
+    "need": "High absorbency so one sheet soaks up spills effectively",
+    "evidence": [
+     "R13191",
+     "R13190",
+     "R66333",
+     "R65066",
+     "R19798",
+     "R208744"
+    ]
+   },
+   {
+    "need": "Thick, strong sheets that don’t fall apart when wet or after being removed from the roll",
+    "evidence": [
+     "R65066",
+     "R231543",
+     "R175270",
+     "R245487",
+     "R286112",
+     "R161928",
+     "R39684"
+    ]
+   },
+   {
+    "need": "Good value — comparable performance to name-brand towels for the price",
+    "evidence": [
+     "R19798",
+     "R208744",
+     "R65066",
+     "R66333"
+    ]
+   },
+   {
+    "need": "Consistent quality across rolls so they don’t get some good rolls and some unusable ones",
+    "evidence": [
+     "R161928",
+     "R39684",
+     "R175270"
+    ]
+   },
+   {
+    "need": "Performance comparable to well-known brands (so they can replace name brands without loss of function)",
+    "evidence": [
+     "R66333",
+     "R65066",
+     "R286112",
+     "R231543"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Sheets are too thin or feel cheap",
+    "evidence": [
+     "R175270",
+     "R231543",
+     "R286112",
+     "R245487"
+    ]
+   },
+   {
+    "need": "Towels fall apart, tear, or must be peeled from the roll to be usable",
+    "evidence": [
+     "R161928",
+     "R175270"
+    ]
+   },
+   {
+    "need": "Poor performance when wet — not absorbent or usable for multiple uses",
+    "evidence": [
+     "R39684",
+     "R175270",
+     "R245487"
+    ]
+   },
+   {
+    "need": "Inconsistent product quality leading to disappointment after expecting a name-brand equivalent",
+    "evidence": [
+     "R286112",
+     "R66333",
+     "R161928"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Sheets that are noticeably thin or ‘cheap’ feeling",
+   "Towels that tear or separate when wet or when pulled from the roll",
+   "Products that do not perform like name-brand equivalents"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "polarized — reviewers frequently give either very positive (5★) praise for absorbency/value or very negative (1★) complaints about thinness and tearing",
+  "segment": {
+   "topic": "kitchen_paper",
+   "segment_id": "kitchen_paper-1",
+   "n_reviews": 14722,
+   "share": 0.3370652746296678,
+   "top_terms": [
+    "paper towels",
+    "towels",
+    "paper",
+    "bounty",
+    "price",
+    "absorbent",
+    "quality",
+    "brand",
+    "size",
+    "don",
+    "rolls",
+    "roll"
+   ],
+   "rating_counts": {
+    "1": 2348,
+    "2": 1062,
+    "3": 1190,
+    "4": 1623,
+    "5": 8499
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "kitchen_paper-2",
+  "topic": "kitchen_paper",
+  "weight": 0.15397119765551665,
+  "name": "Quality-focused towel loyalist",
+  "summary": "This shopper expects high-performing, absorbent paper towels and often chooses the brand they trust after trying alternatives. They reward towels that are very absorbent and well-sized but react strongly when quality, size options, or value don't meet expectations.",
+  "situation": "Buys paper towels for everyday cleanups and household tasks; looks for a reliable, absorbent towel (often a specific branded option) and occasionally purchases dispensers or multi-packs tied to that product.",
+  "needs": [
+   {
+    "need": "Highly absorbent, effective cleaning performance",
+    "evidence": [
+     "R7500",
+     "R12426",
+     "R345374",
+     "R231587",
+     "R163284",
+     "R96504"
+    ]
+   },
+   {
+    "need": "Select-a-size / variable sheet sizing to avoid waste",
+    "evidence": [
+     "R13021",
+     "R218585",
+     "R163284"
+    ]
+   },
+   {
+    "need": "Consistent, high quality so they can stick with a preferred brand",
+    "evidence": [
+     "R7500",
+     "R12426",
+     "R61217",
+     "R163284",
+     "R96504"
+    ]
+   },
+   {
+    "need": "Clear, sturdy packaging and pack formats they can use (e.g., 2-per-pack, compatible with dispensers)",
+    "evidence": [
+     "R61217",
+     "R303593"
+    ]
+   },
+   {
+    "need": "Good price-to-performance — feels worth the money",
+    "evidence": [
+     "R284928",
+     "R231587"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Perceived drops in quality or inconsistency compared to expectations",
+    "evidence": [
+     "R222209",
+     "R284928",
+     "R303593"
+    ]
+   },
+   {
+    "need": "Product sizing or dispenser compatibility problems (rolls or dispensers not fitting or sizes not available)",
+    "evidence": [
+     "R303593",
+     "R231587"
+    ]
+   },
+   {
+    "need": "Feeling that product is not worth the price when performance is poor",
+    "evidence": [
+     "R284928",
+     "R222209"
+    ]
+   },
+   {
+    "need": "Polarized experiences — some purchases meet expectations while others disappoint strongly",
+    "evidence": [
+     "R7500",
+     "R12426",
+     "R222209",
+     "R284928"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Not absorbent enough / poor cleaning performance",
+   "Inconsistent quality compared with previous purchases",
+   "Roll size or format incompatible with their dispenser",
+   "Price not justified by performance"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "polarized — tends to give very positive 5★ reviews when satisfied and harsh 1–2★ reviews when disappointed",
+  "segment": {
+   "topic": "kitchen_paper",
+   "segment_id": "kitchen_paper-2",
+   "n_reviews": 6725,
+   "share": 0.15397119765551665,
+   "top_terms": [
+    "towel",
+    "paper towel",
+    "paper",
+    "towels",
+    "paper towels",
+    "bounty",
+    "size",
+    "quality",
+    "roll",
+    "price",
+    "absorbent",
+    "brand"
+   ],
+   "rating_counts": {
+    "1": 972,
+    "2": 557,
+    "3": 633,
+    "4": 859,
+    "5": 3704
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "skin_care-2",
+  "topic": "skin_care",
+  "weight": 0.7809289190650724,
+  "name": "The eczema-focused gentle moisturizer seeker",
+  "summary": "Seeks skin-care products that soothe and repair eczema and very dry skin without causing irritation. Will try products carefully, values clear results (reduced redness, improved texture, overnight moisture) and is sensitive to smell and residue.",
+  "situation": "Uses creams, balms and ointments as targeted treatments for eczema flares, dry winter skin, or for babies with eczema. Applies products overnight or to specific areas (elbows, groin, face, baby skin) expecting visible improvement within days.",
+  "needs": [
+   {
+    "need": "Soothing, effective relief for eczema flares (reduces redness and rough texture quickly)",
+    "evidence": [
+     "R273421",
+     "R273429",
+     "R240385",
+     "R218824"
+    ]
+   },
+   {
+    "need": "Strong, long-lasting moisturization (overnight improvement and softening of skin)",
+    "evidence": [
+     "R218824",
+     "R119174",
+     "R111533"
+    ]
+   },
+   {
+    "need": "Non-irritating, hypo-tolerable formulations that won’t trigger sensitivity or new flares",
+    "evidence": [
+     "R273421",
+     "R336452",
+     "R336459"
+    ]
+   },
+   {
+    "need": "Pleasant or at least not offensive smell (some users accept faint chemical or cocoa-butter scent if it fades quickly)",
+    "evidence": [
+     "R273421",
+     "R119174"
+    ]
+   },
+   {
+    "need": "Suitable for baby/infant eczema (safe and effective on delicate baby skin)",
+    "evidence": [
+     "R273429"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Strong unpleasant petroleum/chemical odor that makes product unusable for some",
+    "evidence": [
+     "R145619",
+     "R119174"
+    ]
+   },
+   {
+    "need": "Tacky or sticky residue after application",
+    "evidence": [
+     "R284442"
+    ]
+   },
+   {
+    "need": "Inconsistent effectiveness — helps many but fails for some with severe eczema",
+    "evidence": [
+     "R336459",
+     "R336452"
+    ]
+   },
+   {
+    "need": "Initial hesitation or mixed first impressions that can change only if product proves effective over time",
+    "evidence": [
+     "R35001"
+    ]
+   },
+   {
+    "need": "Perceived high price for small packaging (some see value, others note cost)",
+    "evidence": [
+     "R214996"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Overpowering petroleum or crude-oil smell",
+   "Product causes irritation or worsens eczema",
+   "Leaves a sticky/tacky residue"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "leans positive when product visibly improves eczema or dryness; may leave negative reviews for bad odor, stickiness, or lack of effect",
+  "segment": {
+   "topic": "skin_care",
+   "segment_id": "skin_care-2",
+   "n_reviews": 12997,
+   "share": 0.7809289190650724,
+   "top_terms": [
+    "skin",
+    "cream",
+    "eczema",
+    "stuff",
+    "lotion",
+    "does",
+    "better",
+    "ve",
+    "time",
+    "price",
+    "don",
+    "smell"
+   ],
+   "rating_counts": {
+    "1": 1390,
+    "2": 570,
+    "3": 896,
+    "4": 1323,
+    "5": 8818
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "skin_care-1",
+  "topic": "skin_care",
+  "weight": 0.17538905245448536,
+  "name": "The relief-seeking dry-skin user",
+  "summary": "This person buys skin-care products specifically to treat persistent dry, cracked or itchy skin and expects noticeable relief. They reward products that are effective, unscented, and usable on hands, feet, lips and other rough spots.",
+  "situation": "Uses ointments/creams in colder months or whenever skin gets flaky, cracked or itchy (hands, feet, cuticles, lips, sometimes face) and prefers products that provide intense moisturization without causing irritation.",
+  "needs": [
+   {
+    "need": "Provides clear, effective relief for dry or cracked skin",
+    "evidence": [
+     "R38218",
+     "R116284",
+     "R177824",
+     "R37629",
+     "R317636",
+     "R36380",
+     "R36564",
+     "R38350",
+     "R342400",
+     "R273482"
+    ]
+   },
+   {
+    "need": "Works on multiple areas (hands, feet, lips, cuticles, sometimes face)",
+    "evidence": [
+     "R177824",
+     "R36564",
+     "R36380",
+     "R317636"
+    ]
+   },
+   {
+    "need": "Unscented / suitable for sensitive skin",
+    "evidence": [
+     "R38218",
+     "R37629"
+    ]
+   },
+   {
+    "need": "Not oily or overly greasy while still moisturizing",
+    "evidence": [
+     "R317636",
+     "R342400",
+     "R237845"
+    ]
+   },
+   {
+    "need": "Works during winter or times of increased dryness/itchiness",
+    "evidence": [
+     "R342400",
+     "R36380"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Feels too heavy, thick or greasy for some users",
+    "evidence": [
+     "R237845",
+     "R38350",
+     "R36380"
+    ]
+   },
+   {
+    "need": "Perceived as overpriced compared with alternatives",
+    "evidence": [
+     "R260828"
+    ]
+   },
+   {
+    "need": "Some users prefer more natural ingredients",
+    "evidence": [
+     "R273482"
+    ]
+   },
+   {
+    "need": "Works only 'okay' for some — not universally superior to cheaper options",
+    "evidence": [
+     "R260828"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Strong scent or fragranced formula",
+   "Overly greasy / excessively heavy texture",
+   "Price significantly higher than comparable relief products",
+   "Non‑natural ingredients (for users prioritizing natural formulas)"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "generous — tends to give high ratings when the product noticeably relieves dry skin",
+  "segment": {
+   "topic": "skin_care",
+   "segment_id": "skin_care-1",
+   "n_reviews": 2919,
+   "share": 0.17538905245448536,
+   "top_terms": [
+    "dry",
+    "skin",
+    "dry skin",
+    "hands",
+    "cracked",
+    "winter",
+    "feet",
+    "lips",
+    "dry cracked",
+    "aquaphor",
+    "stuff",
+    "ointment"
+   ],
+   "rating_counts": {
+    "1": 55,
+    "2": 44,
+    "3": 92,
+    "4": 251,
+    "5": 2477
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "skin_care-0",
+  "topic": "skin_care",
+  "weight": 0.043682028480442225,
+  "name": "Diaper-rash-focused caregiver",
+  "summary": "A caregiver who buys skin-care ointment specifically to prevent and treat diaper rash, and values a reliable protective barrier. They expect the product to work on babies (and sometimes adults) and are vocal when it is greasy or underperforms compared with other options.",
+  "situation": "Uses the ointment at diaper changes as a preventative and treatment for diaper rash; also applies it for small eczema or other minor skin issues and sometimes for adult diaper rash.",
+  "needs": [
+   {
+    "need": "Prevent diaper rash when used regularly at diaper changes",
+    "evidence": [
+     "R323881",
+     "R36968",
+     "R37990"
+    ]
+   },
+   {
+    "need": "Effectively treat existing diaper rash",
+    "evidence": [
+     "R38117",
+     "R35993",
+     "R158330"
+    ]
+   },
+   {
+    "need": "Form a protective barrier against wetness to reduce rash occurrence",
+    "evidence": [
+     "R158371",
+     "R158330"
+    ]
+   },
+   {
+    "need": "Be multi-functional for other skin conditions (small eczema, general dry skin)",
+    "evidence": [
+     "R158617",
+     "R158371",
+     "R165890"
+    ]
+   },
+   {
+    "need": "Work without excessively staining sheets or clothes (important for adult use)",
+    "evidence": [
+     "R315445",
+     "R165890"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Product can be greasy, messy, and stain sheets",
+    "evidence": [
+     "R315445",
+     "R165890"
+    ]
+   },
+   {
+    "need": "Some users find it less effective than other diaper-rash products with different active ingredients",
+    "evidence": [
+     "R158371",
+     "R158188"
+    ]
+   },
+   {
+    "need": "Melts or becomes runny on contact with skin, reducing perceived effectiveness",
+    "evidence": [
+     "R165890"
+    ]
+   },
+   {
+    "need": "Perceived as expensive compared with cheaper alternatives",
+    "evidence": [
+     "R158330"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Runs or becomes too greasy on application (stains bedding) — R165890, R315445",
+   "Fails to clear diaper rash as well as competing products — R158188, R158371",
+   "Price noticeably higher than similar alternatives — R158330"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "generous — most reviewers give 5 stars for prevention/treatment effectiveness, but negative ratings focus on greasiness, meltiness, or weaker treatment compared with other products.",
+  "segment": {
+   "topic": "skin_care",
+   "segment_id": "skin_care-0",
+   "n_reviews": 727,
+   "share": 0.043682028480442225,
+   "top_terms": [
+    "diaper",
+    "rash",
+    "diaper rash",
+    "baby",
+    "diaper bag",
+    "bag",
+    "aquaphor",
+    "rashes",
+    "skin",
+    "cream",
+    "ointment",
+    "change"
+   ],
+   "rating_counts": {
+    "1": 11,
+    "2": 7,
+    "3": 8,
+    "4": 51,
+    "5": 650
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "wound_care-2",
+  "topic": "wound_care",
+  "weight": 0.6331203292537637,
+  "name": "Practical first-aid preparer",
+  "summary": "This customer buys wound-care supplies for everyday first aid, emergency kits, pets, and active use. They value reliable adhesion, adequate strength/thickness, and good value — and will keep products in vehicle, bug-out, or home kits.",
+  "situation": "Uses self-adhering wraps, gauze, Israeli-style dressings, and compact kits for treating cuts, chronic wounds, pet wounds, and for emergency prep. Purchases both to stock first-aid kits and for repeated home/active use.",
+  "needs": [
+   {
+    "need": "Self-adhering bandages that stick to themselves without tape (useful for pets and active situations).",
+    "evidence": [
+     "R112394",
+     "R114945",
+     "R183909"
+    ]
+   },
+   {
+    "need": "Bandage/gauze that is strong and thick so tape will stick and dressing stays in place for long-term or sensitive wound care.",
+    "evidence": [
+     "R94983",
+     "R243990",
+     "R94484"
+    ]
+   },
+   {
+    "need": "Compact, vacuum-sealed, space-saving emergency dressings (Israeli/battle dressing) for kits, BOBs, vehicles and hiking packs.",
+    "evidence": [
+     "R200701",
+     "R270803",
+     "R112394"
+    ]
+   },
+   {
+    "need": "Affordable options that still offer decent quality — value for money when buying multiples or stocking kits.",
+    "evidence": [
+     "R265301",
+     "R183909",
+     "R283737"
+    ]
+   },
+   {
+    "need": "Bandages/wraps available in appropriate sizes or clear sizing guidance because fit/compression matters (wrist/ankle/head/etc.).",
+    "evidence": [
+     "R283737",
+     "R328161",
+     "R112491"
+    ]
+   },
+   {
+    "need": "Products that work for both emergency short-term stops of bleeding and longer-term chronic wound management.",
+    "evidence": [
+     "R270803",
+     "R243990",
+     "R200701"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Wraps that tear easily or rip if not handled carefully, reducing reliability for secure support.",
+    "evidence": [
+     "R112491"
+    ]
+   },
+   {
+    "need": "Some elastic/self-sticking wraps run very tight or have sizing that is smaller than expected, causing fit/compression issues.",
+    "evidence": [
+     "R283737"
+    ]
+   },
+   {
+    "need": "First-aid kits that are heavy on bandages but may lack other essential items — not truly all-inclusive.",
+    "evidence": [
+     "R328161"
+    ]
+   },
+   {
+    "need": "Occasional mismatch between product expectation and received item (e.g., surprised by size or style).",
+    "evidence": [
+     "R270803",
+     "R112491"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Bandage material that tears or rips easily when being wrapped",
+   "Poor or inconsistent adhesion (tape or self-stick not holding)",
+   "Sizing so small it prevents proper application or causes excessive compression",
+   "Products that claim to be complete kits but lack essential first-aid items"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "leans positive — frequently gives 4–5★ for good value or reliable products but will give 1–3★ when quality (strength, size, adhesion) fails expectations.",
+  "segment": {
+   "topic": "wound_care",
+   "segment_id": "wound_care-2",
+   "n_reviews": 58456,
+   "share": 0.6331203292537637,
+   "top_terms": [
+    "price",
+    "quality",
+    "gauze",
+    "wound",
+    "bandage",
+    "wrap",
+    "bandages",
+    "need",
+    "needed",
+    "size",
+    "better",
+    "time"
+   ],
+   "rating_counts": {
+    "1": 6797,
+    "2": 3023,
+    "3": 4236,
+    "4": 6562,
+    "5": 37838
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "wound_care-0",
+  "topic": "wound_care",
+  "weight": 0.2875988302826817,
+  "name": "Adhesive-sensitive practical user",
+  "summary": "This user wants wound bandages that reliably stay on and protect wounds but also won't irritate or pull fragile/sensitive skin. They evaluate bandages mainly on adhesive performance, comfort/flexibility, and water resistance.",
+  "situation": "Buys and uses bandages for everyday cuts, finger wounds, and thin or sensitive skin. They need dressings that can tolerate handwashing, movement and tight clothing, and that are easy to remove without damaging skin.",
+  "needs": [
+   {
+    "need": "Bandages that reliably stick and stay in place (including on fingers and hands)",
+    "evidence": [
+     "R262579",
+     "R281576",
+     "R301336",
+     "R322926"
+    ]
+   },
+   {
+    "need": "Adhesive that is gentle on sensitive or thin skin (doesn't pull or cause irritation on removal)",
+    "evidence": [
+     "R31688",
+     "R301336",
+     "R46449",
+     "R322926"
+    ]
+   },
+   {
+    "need": "Flexibility and comfort so the bandage doesn't hamper bending or wear under tight clothing",
+    "evidence": [
+     "R262579",
+     "R281576",
+     "R144396"
+    ]
+   },
+   {
+    "need": "Water resistance or the ability to stay on through handwashing and occasional wetting",
+    "evidence": [
+     "R262579",
+     "R281576",
+     "R144396"
+    ]
+   },
+   {
+    "need": "Easy, non-gummy removal that doesn’t leave residue or hurt",
+    "evidence": [
+     "R144396",
+     "R31688",
+     "R46449"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Bandages that fail to stick or fall off after a few hours",
+    "evidence": [
+     "R305779",
+     "R217124",
+     "R114037",
+     "R257240",
+     "R175711"
+    ]
+   },
+   {
+    "need": "Adhesive that is too aggressive or gummy and hurts or sticks to skin on removal",
+    "evidence": [
+     "R46449",
+     "R322926",
+     "R144396"
+    ]
+   },
+   {
+    "need": "Inconsistent adhesive performance (some pieces don't stick to themselves or skin)",
+    "evidence": [
+     "R217124",
+     "R305779"
+    ]
+   },
+   {
+    "need": "Not truly waterproof — wound pad gets wet during showering or prolonged soaking",
+    "evidence": [
+     "R281576",
+     "R257240",
+     "R262579"
+    ]
+   },
+   {
+    "need": "Perceived waste of money when bandages don't perform as expected",
+    "evidence": [
+     "R305779",
+     "R257240",
+     "R175711"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Bandage does not stick or falls off quickly",
+   "Adhesive pulls or damages sensitive/thin skin on removal",
+   "Wound pad soaks through in normal showering or handwashing"
+  ],
+  "price_sensitivity": "medium",
+  "rating_tendency": "polarized — gives high ratings when bandages stick, stay comfortable, and don’t irritate; gives low ratings when adhesive fails or pulls skin.",
+  "segment": {
+   "topic": "wound_care",
+   "segment_id": "wound_care-0",
+   "n_reviews": 26554,
+   "share": 0.2875988302826817,
+   "top_terms": [
+    "skin",
+    "stick",
+    "bandages",
+    "adhesive",
+    "stay",
+    "bandaids",
+    "bandage",
+    "don",
+    "remove",
+    "tape",
+    "bandaid",
+    "sensitive"
+   ],
+   "rating_counts": {
+    "1": 4970,
+    "2": 2090,
+    "3": 2173,
+    "4": 2517,
+    "5": 14804
+   },
+   "filtered_quotes": 0
+  }
+ },
+ {
+  "persona_id": "wound_care-1",
+  "topic": "wound_care",
+  "weight": 0.07928084046355464,
+  "name": "Value-focused stick-on wound protector",
+  "summary": "This shopper buys standard adhesive bandages for everyday cuts and wants reliable performance at a good price. They expect bandages that adhere well, feel thin/flexible on skin, and match or beat the well-known Band-Aid brand for less money.",
+  "situation": "Uses disposable adhesive bandages frequently for routine minor wounds (fingers, small irritations) and compares alternatives to the Band-Aid brand; chooses products based on stickiness, comfort/flexibility, and cost.",
+  "needs": [
+   {
+    "need": "Bandages that stick well and stay on during normal activity",
+    "evidence": [
+     "R242561",
+     "R46208",
+     "R146276"
+    ]
+   },
+   {
+    "need": "Good value — comparable performance to brand-name Band-Aid at a lower price",
+    "evidence": [
+     "R242561",
+     "R337751",
+     "R146276"
+    ]
+   },
+   {
+    "need": "Thin, flexible bandages that feel like an extension of skin and don’t interfere with tasks (e.g., playing guitar)",
+    "evidence": [
+     "R293215"
+    ]
+   },
+   {
+    "need": "Durable adhesion when exposed to moisture (resistant to falling off if wet)",
+    "evidence": [
+     "R47623"
+    ]
+   },
+   {
+    "need": "Packaging that accurately reflects contents (e.g., expected character/image counts)",
+    "evidence": [
+     "R216623"
+    ]
+   }
+  ],
+  "pain_points": [
+   {
+    "need": "Bandages can lose adhesion and fall off, especially when they get wet",
+    "evidence": [
+     "R47623",
+     "R31063"
+    ]
+   },
+   {
+    "need": "Removing the bandage can leave bits of adhesive or glue residue on fingers",
+    "evidence": [
+     "R249105"
+    ]
+   },
+   {
+    "need": "Some users experience inconsistent quality — bandage may come off cut or not stick properly",
+    "evidence": [
+     "R31063",
+     "R249105"
+    ]
+   },
+   {
+    "need": "Perceived mismatch between product claims/branding and actual product (e.g., only one themed bandage in the box)",
+    "evidence": [
+     "R216623"
+    ]
+   },
+   {
+    "need": "Some users find removal difficult (peeling off is unpleasant), even if adhesion is good",
+    "evidence": [
+     "R46208"
+    ]
+   }
+  ],
+  "deal_breakers": [
+   "Falls off when wet or during normal use",
+   "Leaves adhesive residue on skin when removed",
+   "Arrives with packaging that is misleading about contents"
+  ],
+  "price_sensitivity": "high",
+  "rating_tendency": "generous overall but quick to give very low ratings when adhesive performance fails",
+  "segment": {
+   "topic": "wound_care",
+   "segment_id": "wound_care-1",
+   "n_reviews": 7320,
+   "share": 0.07928084046355464,
+   "top_terms": [
+    "band",
+    "band aids",
+    "aids",
+    "band aid",
+    "aid",
+    "brand",
+    "aid brand",
+    "stay",
+    "stick",
+    "box",
+    "skin",
+    "don"
+   ],
+   "rating_counts": {
+    "1": 938,
+    "2": 379,
+    "3": 506,
+    "4": 677,
+    "5": 4820
+   },
+   "filtered_quotes": 0
+  }
+ }
+]

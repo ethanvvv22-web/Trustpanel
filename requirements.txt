@@ -1,0 +1,9 @@
+azure-ai-projects>=2.0
+azure-identity
+openai
+python-dotenv
+numpy
+scipy
+scikit-learn
+pandas
+streamlit
